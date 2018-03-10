@@ -16,4 +16,4 @@ def answer():
     return total
 
 
-print answer()
+print(answer())
